@@ -1,0 +1,19 @@
+.barcelona{
+    color:red;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.chelsea{
+    color:blue;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.button{
+    color:seagreen;
+    background-color: rgb(32, 39, 35);
+    margin:5px;
+}
+
+
